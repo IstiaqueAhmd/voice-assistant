@@ -1,0 +1,7 @@
+openai-whisper
+spacy
+sounddevice
+numpy
+scipy
+torch
+coqui-tts

@@ -1,0 +1,17 @@
+{
+    "greeting": {
+        "patterns": ["hello", "hi", "hey", "good morning"],
+        "responses": ["Hello!", "Hi there!", "Hey!"]
+    },
+    "time": {
+        "patterns": ["what time is it", "current time", "tell me the time"],
+        "responses": ["It's currently {time}", "The time is {time}"]
+    },
+    "joke": {
+        "patterns": ["tell me a joke", "make me laugh", "funny story"],
+        "responses": ["Why don't scientists trust atoms? Because they make up everything!"]
+    },
+    "fallback": {
+        "responses": ["I didn't understand that", "Could you rephrase that?"]
+    }
+}
